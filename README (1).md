@@ -1,79 +1,32 @@
-# Streaming Content Insights
+# 📊 Streaming Content Insights (Netflix EDA + Dashboard)
 
-A polished exploratory data analysis and Streamlit dashboard project using the Netflix titles dataset.
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
-## What this project shows
-- Data cleaning and feature engineering in a notebook
-- An interactive Streamlit dashboard for exploration
-- Clear charts, KPIs, and filtering logic
-- A reusable repo structure that looks good on GitHub
+A data analysis and visualization project exploring Netflix content trends using Python and an interactive Streamlit dashboard.
 
-## Project structure
+---
 
-```text
-netflix_insights/
-├── app.py
-├── requirements.txt
-├── README.md
-├── notebooks/
-│   └── 01_data_cleaning_and_eda.ipynb
-├── data/
-│   ├── raw/
-│   │   └── netflix_titles.csv
-│   └── processed/
-│       └── netflix_clean.csv
-```
+## 🚀 Project Overview
 
-## Setup
+This project analyzes Netflix's catalog to uncover insights such as:
 
-1. Put the Kaggle dataset in `data/raw/netflix_titles.csv`
-2. Create a virtual environment
-3. Install dependencies:
+- Distribution of Movies vs TV Shows  
+- Content growth over time  
+- Most popular genres  
+- Country-wise content trends  
 
-```bash
-pip install -r requirements.txt
-```
+It includes:
+- 📓 Jupyter Notebook for data cleaning & EDA  
+- 📈 Streamlit dashboard for interactive exploration  
 
-## Run the notebook
+---
 
-Open:
+## 📸 Streamlit Dashboard Preview
 
-```bash
-jupyter notebook notebooks/01_data_cleaning_and_eda.ipynb
-```
+> ⚠️ Add your screenshot in the repo and update the path below
 
-## Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
-
-## Dataset
-
-Use the Netflix titles dataset from Kaggle or any CSV with similar columns:
-- `show_id`
-- `type`
-- `title`
-- `director`
-- `cast`
-- `country`
-- `date_added`
-- `release_year`
-- `rating`
-- `duration`
-- `listed_in`
-- `description`
-
-## Portfolio angle
-
-This project demonstrates:
-- data cleaning
-- missing value handling
-- feature engineering
-- exploratory analysis
-- dashboard building
-- communicating insights clearly
-
-## Suggested GitHub repo title
-
-`streaming-content-insights`
+```markdown
+![Dashboard Screenshot](assets/dashboard.png)
