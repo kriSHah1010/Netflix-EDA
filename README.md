@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-
+ 
 A data analysis and visualization project exploring Netflix content trends using Python and an interactive Streamlit dashboard.
 
 ---
