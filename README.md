@@ -9,7 +9,7 @@ A data analysis and visualization project exploring Netflix content trends using
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview 
  
 This project analyzes Netflix's catalog to uncover insights such as:
 
