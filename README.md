@@ -26,7 +26,6 @@ It includes:
 
 ## 📸 Streamlit Dashboard Preview
 
-> ⚠️ Add your screenshot in the repo and update the path below
 
 ```markdown
 ![Dashboard Screenshot](assets/dashboard.png)
