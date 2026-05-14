@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
  
 A data analysis and visualization project exploring Netflix content trends using Python and an interactive Streamlit dashboard.
-
+ 
 ---
 
 ## 🚀 Project Overview   
